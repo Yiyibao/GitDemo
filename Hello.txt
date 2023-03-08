@@ -6,6 +6,9 @@ Hello World,Hello git
 Hello World,Hello git
 Hello World,Hello git
 Hello World,Hello git
+<<<<<<< HEAD
 Hello World,Hello git 1
-Hello World,Hello git
+=======
+Hello World,Hello git2
+>>>>>>> hot-fix
 222222222222
